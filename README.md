@@ -7,7 +7,8 @@ Developed an interactive Business Sales & Profit Dashboard in Microsoft Excel to
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img width="1342" height="672" alt="Screenshot 2026-07-20 134455" src="https://github.com/user-attachments/assets/da128ed7-13fb-4964-a1de-248ea0e14783" />
+
 
 ---
 
